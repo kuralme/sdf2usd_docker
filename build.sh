@@ -1,2 +1,2 @@
 #!/bin/bash
-docker build --tag sdf_usd:latest .
+docker build --tag sdf2usd_docker:latest .
